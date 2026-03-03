@@ -14,5 +14,12 @@ I am Vijay Hosapeti, a final-year Computer Science Engineering student passionat
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vijay417-sys&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay417-sys&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vijay417-sys&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay417-sys&layout=compact&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
